@@ -10,3 +10,7 @@
 
 * Chrome
   * [Chrome 59](https://developers.google.com/web/updates/2017/04/devtools-release-notes)
+
+### Etc
+
+* [GraphQL](http://graphql.org/)
